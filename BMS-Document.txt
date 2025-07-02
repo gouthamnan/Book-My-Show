@@ -108,6 +108,7 @@ eksctl create cluster --name=kastro-eks \
 
 It will take 5-10 minutes to create the cluster
 Goto EKS Console and verify the cluster.
+bzaxqqfptvhskqun
 
 (b)
 eksctl utils associate-iam-oidc-provider \
