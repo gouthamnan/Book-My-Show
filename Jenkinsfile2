@@ -10,8 +10,8 @@ pipeline {
 
     environment {
         SCANNER_HOME = tool 'sonar-scanner'
-        DOCKER_IMAGE = 'goan/bms:latest'
-        EKS_CLUSTER_NAME = 'goan-eks'
+        DOCKER_IMAGE = 'goan3069/bms:latest'
+        EKS_CLUSTER_NAME = 'goan69-eks'
         AWS_REGION = 'us-east-1'
     }
 
